@@ -29,8 +29,8 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi
-            non quis exercitationem culpa nesciunt nihil aut nostrum explicabo
+            Diligent software engineer with stong experience in Web development
+            and Android development.
           </motion.p>
           <div className="flex justify-center xl:hidden relative">
             <ProjectBtn />
